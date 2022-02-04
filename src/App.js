@@ -20,7 +20,9 @@ class App extends Component {
         <header>
           <p>Login</p>
         </header>
-        <
+        <body>
+          
+        </body>
       </div>
     );
   }
